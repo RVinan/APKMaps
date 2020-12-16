@@ -1,0 +1,14 @@
+C:\Users\Rodrigo\source\repos\mapsRVinanImp\mapsRVinanImp\mapsRVinanImp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Rodrigo\source\repos\mapsRVinanImp\mapsRVinanImp\mapsRVinanImp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Rodrigo\source\repos\mapsRVinanImp\mapsRVinanImp\mapsRVinanImp\obj\Debug\netstandard2.0\mapsRVinanImp.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\source\repos\mapsRVinanImp\mapsRVinanImp\mapsRVinanImp\obj\Debug\netstandard2.0\mapsRVinanImp.AssemblyInfo.cs
+C:\Users\Rodrigo\source\repos\mapsRVinanImp\mapsRVinanImp\mapsRVinanImp\obj\Debug\netstandard2.0\mapsRVinanImp.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\source\repos\mapsRVinanImp\mapsRVinanImp\mapsRVinanImp\bin\Debug\netstandard2.0\mapsRVinanImp.deps.json
+C:\Users\Rodrigo\source\repos\mapsRVinanImp\mapsRVinanImp\mapsRVinanImp\bin\Debug\netstandard2.0\mapsRVinanImp.dll
+C:\Users\Rodrigo\source\repos\mapsRVinanImp\mapsRVinanImp\mapsRVinanImp\bin\Debug\netstandard2.0\ref\mapsRVinanImp.dll
+C:\Users\Rodrigo\source\repos\mapsRVinanImp\mapsRVinanImp\mapsRVinanImp\bin\Debug\netstandard2.0\mapsRVinanImp.pdb
+C:\Users\Rodrigo\source\repos\mapsRVinanImp\mapsRVinanImp\mapsRVinanImp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Rodrigo\source\repos\mapsRVinanImp\mapsRVinanImp\mapsRVinanImp\obj\Debug\netstandard2.0\mapsRVinanImp.dll
+C:\Users\Rodrigo\source\repos\mapsRVinanImp\mapsRVinanImp\mapsRVinanImp\obj\Debug\netstandard2.0\ref\mapsRVinanImp.dll
+C:\Users\Rodrigo\source\repos\mapsRVinanImp\mapsRVinanImp\mapsRVinanImp\obj\Debug\netstandard2.0\mapsRVinanImp.pdb
+C:\Users\Rodrigo\source\repos\mapsRVinanImp\mapsRVinanImp\mapsRVinanImp\obj\Debug\netstandard2.0\mapsRVinanImp.csprojAssemblyReference.cache
